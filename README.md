@@ -1,7 +1,7 @@
 # Simulador de Travessia de Barco em C#
 
 <p align="center">
-  <img src="VOU COLOCAR O GIF AQUI" alt="Demonstração do Simulador" width="700"/>
+  <img src="https://github.com/oliverscarraro/csharp-boat-crossing-simulator/blob/main/gif-demonstration.gif?raw=true" alt="Demonstração do Simulador" width="700"/>
 </p>
 
 ## Visão Geral
