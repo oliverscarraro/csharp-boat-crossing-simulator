@@ -1,0 +1,94 @@
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.pdb
+C:\Users\Gabriel\Documents\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\081240027\Downloads\PBL_2024\PBL_2024\obj\Debug\PBL_2024.pdb
+Z:\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe.config
+Z:\PBL_2024\PBL_2024\bin\Debug\PBL_2024.exe
+Z:\PBL_2024\PBL_2024\bin\Debug\PBL_2024.pdb
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.exe
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.pdb
+Z:\PBL_2024\PBL_2024\obj\Debug\PBL_2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_2024 1\PBL_2024\obj\Debug\PBL_2024.pdb
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_1811_2024\PBL_2024\obj\Debug\PBL_2024.pdb
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\081240002\Downloads\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.pdb
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.exe.config
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.exe
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\bin\Debug\PBL_2024.pdb
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Form1.resources
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\Cliente\Desktop\pbl_1911_maisfuncoes\PBL_1911_ALGORITMOSCOMPLETOS\PBL_2024\obj\Debug\PBL_2024.pdb
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.exe
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.pdb
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\bin\Debug\PBL_2024.exe.config
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\bin\Debug\PBL_2024.exe
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\bin\Debug\PBL_2024.pdb
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.Gráfico_Resultado.resources
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.Properties.Resources.resources
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.csproj.GenerateResource.cache
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.csproj.CoreCompileInputs.cache
+F:\OneDrive - Fundação Salvador Arena\2semestre\PBL - Fisica Algoritmos\AppsWinForms\pbl_MaisAjeitado\PBL_2024\obj\Debug\PBL_2024.KineBoat.resources
+C:\Users\ocarraro\Desktop\PBL_OFICIAL\PBL_2024\obj\Debug\PBL_2024.csproj.AssemblyReference.cache
+C:\Users\ocarraro\Desktop\PBL_OFICIAL\PBL_2024\obj\Debug\PBL_2024.exe
+C:\Users\ocarraro\Desktop\PBL_OFICIAL\PBL_2024\obj\Debug\PBL_2024.pdb
